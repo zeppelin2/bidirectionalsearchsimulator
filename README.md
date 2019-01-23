@@ -3,13 +3,19 @@ bidirectionalsearchsimulator
 
 The Bidirectional Search Simulator created as part of my bachelor project on bidirectional network search algorithms
 
-The following are included:
+The following folders are included:
 
-/src the source code for the project. The main entry point into the program is the "main" method in "SearchCoordinator.java".
+/src 
 
-/jar the executable jar file for the Bidirectional Search Simulator
+    The source code for the project. The main entry point into the program is the "main" method in "SearchCoordinator.java".
 
-/report the bachelor project report which discusses the results obtained from simulations run using the Bidirectional Search Simulator
+/jar 
+
+    The executable jar file for the Bidirectional Search Simulator.
+
+/report 
+
+    The bachelor project report which discusses the results obtained from simulations run using the Bidirectional Search Simulator.
 
 A quick overview of how to obtain some results is as follows:
 
